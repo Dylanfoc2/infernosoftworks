@@ -1,6 +1,3 @@
 return {
-"yuh",
-  "PlaceHolder",
-  "703DA78D-8B8B-4B94-AD5D-F4ED95B85009",
-  "C5E3813D-FB28-42CE-A576-5D9D122DCF99"
+  "PlaceHolder"
 }
