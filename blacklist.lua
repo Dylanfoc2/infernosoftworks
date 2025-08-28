@@ -1,4 +1,4 @@
-blacklisted {
+blacklisted = {
   "C5E3813D-FB28-42CE-A576-5D9D122DCF99",
 
 }
